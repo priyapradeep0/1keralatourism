@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    height: 40px;
+    padding: 6px;
+}
+
+.keralatourism{ 
+    color: white;
+}
+.number{
+    color: white;
+   
+}
+.email{
+    color: white;
+}
+.logoimage{
+    height: 30px;
+ margin-right: 980px;
+ 
+}
+body {
+    background-image: url('backwater-reflection-water-nature.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;;
+      }
+
+      input[type=text], input[type=password] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+      }
+
+      button {
+        background-color: #04AA6D;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+      }
+
+      button:hover {
+        opacity: 0.8;
+      }
+      .homefooter{
+        /* margin-left: 10%; */
+        background-color: white;
+        margin-top: 5%;
+        text-align: center;
+        
+    }
+    .fill{
+      margin-left: 25%;
+      margin-right: 25%;
+    }

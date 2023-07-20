@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    height: 40px;
+    padding: 6px;
+}
+
+.keralatourism{ 
+    color: white;
+}
+.number{
+    color: white;
+   
+}
+.email{
+    color: white;
+}
+.logoimage{
+    height: 30px;
+ margin-right: 980px;
+ 
+}
+body{
+    background-size:cover;
+}
+.heading{
+    text-align: center;
+    color: brown;
+    margin-top: 4%;
+}
+p{
+    color: white;
+}
+#description{
+   
+    padding: 8px;
+}
+.col{
+    margin-top: 4%;
+    margin-left: 24%;
+}
+.homefooter{
+    /* margin-left: 10%; */
+    background-color: white;
+    margin-top: 5%;
+    text-align: center;
+    
+}
